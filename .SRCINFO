@@ -1,0 +1,9 @@
+pkgbase = arch-x-themes
+	pkgdesc = Mint-X theme for Arch
+	pkgver = 1.5.2
+	pkgrel = 1
+	arch = any
+	license = GPL3
+
+pkgname = arch-x-themes
+
